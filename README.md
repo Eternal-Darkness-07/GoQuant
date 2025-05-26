@@ -64,7 +64,7 @@ vcpkg install boost:x64-windows openssl:x64-windows qt5:x64-windows nlohmann-jso
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/trade-simulator.git
+git clone https://github.com/Eternal-Darkness-07/trade-simulator.git
 cd trade-simulator
 
 # Create a build directory
